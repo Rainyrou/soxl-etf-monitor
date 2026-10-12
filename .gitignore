@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+soxl-watch.json
+soxl-watch.json.staging
+soxl-watch.json.staging.tmp
+soxl-watch.json.tmp
